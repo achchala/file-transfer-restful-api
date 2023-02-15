@@ -1,0 +1,29 @@
+{
+  "name": "file-transfer-restful-api",
+  "version": "1.0.0",
+  "description": "API to tranfer files with RESTful interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achchala/file-transfer-restful-api.git"
+  },
+  "keywords": [
+    "file",
+    "transfer",
+    "retrieval",
+    "upload"
+  ],
+  "author": "Achchala Deepan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achchala/file-transfer-restful-api/issues"
+  },
+  "homepage": "https://github.com/achchala/file-transfer-restful-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
